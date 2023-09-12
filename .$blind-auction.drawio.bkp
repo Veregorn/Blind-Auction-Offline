@@ -1,0 +1,98 @@
+<mxfile host="Electron" modified="2023-09-11T12:25:55.079Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="8a_brmaKo_Sx_H2CPrL6" version="21.6.8" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1063" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Ask for a name" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="227" y="209" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oITX6Q57eUCw4BFQtcA0-0" value="print logo" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="227" y="86" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oITX6Q57eUCw4BFQtcA0-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oITX6Q57eUCw4BFQtcA0-0" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="457" y="496" as="sourcePoint" />
+            <mxPoint x="507" y="446" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oITX6Q57eUCw4BFQtcA0-2" value="Ask for a bid" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="227" y="316" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oITX6Q57eUCw4BFQtcA0-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="oITX6Q57eUCw4BFQtcA0-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="457" y="496" as="sourcePoint" />
+            <mxPoint x="507" y="446" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oITX6Q57eUCw4BFQtcA0-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oITX6Q57eUCw4BFQtcA0-2" target="SHak2Mj1D76dx6Uy9It8-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="457" y="496" as="sourcePoint" />
+            <mxPoint x="287" y="456" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oITX6Q57eUCw4BFQtcA0-7" value="ask for other bidders" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="214.5" y="546" width="145" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oITX6Q57eUCw4BFQtcA0-8" value="Clear screen" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="447" y="316" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oITX6Q57eUCw4BFQtcA0-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oITX6Q57eUCw4BFQtcA0-7" target="oITX6Q57eUCw4BFQtcA0-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="457" y="496" as="sourcePoint" />
+            <mxPoint x="507" y="446" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="507" y="616" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oITX6Q57eUCw4BFQtcA0-10" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="oITX6Q57eUCw4BFQtcA0-9" vertex="1" connectable="0">
+          <mxGeometry x="-0.3097" y="3" relative="1" as="geometry">
+            <mxPoint x="-56" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oITX6Q57eUCw4BFQtcA0-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oITX6Q57eUCw4BFQtcA0-8" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="447" y="496" as="sourcePoint" />
+            <mxPoint x="497" y="446" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="507" y="229" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SHak2Mj1D76dx6Uy9It8-0" value="Save bidders data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="227" y="436" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SHak2Mj1D76dx6Uy9It8-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SHak2Mj1D76dx6Uy9It8-0" target="oITX6Q57eUCw4BFQtcA0-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="457" y="496" as="sourcePoint" />
+            <mxPoint x="507" y="446" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SHak2Mj1D76dx6Uy9It8-2" value="Calculate highest bid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="227" y="746" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SHak2Mj1D76dx6Uy9It8-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oITX6Q57eUCw4BFQtcA0-7" target="SHak2Mj1D76dx6Uy9It8-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="457" y="496" as="sourcePoint" />
+            <mxPoint x="507" y="446" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SHak2Mj1D76dx6Uy9It8-4" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SHak2Mj1D76dx6Uy9It8-3">
+          <mxGeometry x="-0.2667" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SHak2Mj1D76dx6Uy9It8-5" value="Print the winner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="457" y="746" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SHak2Mj1D76dx6Uy9It8-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SHak2Mj1D76dx6Uy9It8-2" target="SHak2Mj1D76dx6Uy9It8-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="557" y="706" as="sourcePoint" />
+            <mxPoint x="717" y="376" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
